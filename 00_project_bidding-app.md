@@ -15,7 +15,7 @@ You're building a small web application that:
 
 ## 📋 Requirements & Features
 Students will create the HTML (index.html) file with:
-- A <div> for displaying bids.
+- A ```<div>``` for displaying bids.
 - Two input areas for Bidder 1 and Bidder 2.
 - A button for each to submit a bid.
 - They should not modify the HTML, but understand its role in the DOM interaction.
