@@ -1,7 +1,7 @@
 ## 🎯 Objective
 Build an interactive bidding web app that allows two users to input bids, stores them in the browser using localStorage, and displays all bids in real-time. This exercise is designed to reinforce ES6+ syntax, DOM manipulation, array methods, and data persistence in the browser.
 
-## 📝 Project Summary
+## 📝 Project Description
 You're building a small web application that:
 - Allows two users to place numerical bids via input fields.
 - Stores the bids in localStorage so data persists after a refresh.
