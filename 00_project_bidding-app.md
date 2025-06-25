@@ -10,7 +10,7 @@ You're building a small web application that:
 - Template literals
 - Arrow functions
 - Object shorthand
-- Array iteration with .forEach()
+- Array iteration with ```.forEach()```
 - Destructuring (optional bonus)
 
 ## 📋 Requirements & Features
@@ -33,15 +33,15 @@ js
 ```
 
 ### Use localStorage to persist bid history across page reloads:
-- Implement a saveBids() function to store data.
-- Implement a retrieveBids() function to load existing bids on page load.
+- Implement a ```saveBids()``` function to store data.
+- Implement a ```retrieveBids()``` function to load existing bids on page load.
 
 ### Render all bids to the DOM dynamically using:
 - Array.prototype.forEach()
 - Template literals (`...${}`)
 
 ### Use modern JS syntax:
-- Object shorthand: { user, amount } instead of { user: user, amount: amount }
+- Object shorthand: ```{ user, amount }``` instead of ```{ user: user, amount: amount }```
 - Arrow functions (optional for advanced students)
 - Default parameters and ternary operators (optional enhancements)
 
