@@ -2,7 +2,7 @@
 
 <i>There are 8 data types in javaScript</i>
 
-<i>We will be going over all of them. But we will deeply dive into 5 of them first, of which you will use most of the time as a developer</i>
+<i>We will go over these data types that will be important to learn and understand how to use as a developer</i>
 
 #### [Table of Contents](#table-of-contents)
 
