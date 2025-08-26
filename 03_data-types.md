@@ -1,6 +1,6 @@
 # 03: Data Types
 
-<i>There are 8 data types in javaScript</i>
+<i>There are 8 data types in javaScript: String, Number, Bigint, Boolean, Null, Undefined, Symbol and Object</i>
 
 <i>We will go over these data types that will be important to learn and understand how to use as a developer</i>
 
@@ -13,7 +13,7 @@
   - [NUMBER](#number)
     - [Number Methods](#number-methods)
     - [In-Class Exercise #3](#in-class-exercise-3)
-    - [BigINT](#bigint)
+  - [BigINT](#bigint)
   - [Boolean](#boolean)
   - [Null/Undefined](#nullundefined)
 ---
